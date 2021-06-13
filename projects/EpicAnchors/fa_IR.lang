@@ -1,0 +1,35 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+    next: '&9Badi'
+    back: '&9Ghabli'
+interface:
+  button:
+
+    # Interface Messages
+    addtimewithxp: '&aEzafe kardan 30 daghighe be hamrahe XP'
+    addtimewithxplore: '&7Gheymat: &a%cost% Levels'
+    addtimewitheconomy: '&aEzafe kardan 30 daghighe be hamrahe ECO'
+    addtimewitheconomylore: '&7Gheymat: &a$%cost%'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+command:
+  give:
+
+    # Command Messages
+    success: '&7Shoma ChunkAnchor daryaft kardid.'
+  show:
+    start: '&7Anchor visualizer(Tajasom dahande) &2Faal shod.'
+    stop: '&7Anchor visualizer(Tajasom dahande) &cGheyre faal shod.'
+event:
+  general:
+
+    # Event Messages
+    nopermission: '&cShoma permission baraye anjam in kar ra nadarid.'
+  upgrade:
+    cannotafford: '&cShoma be andaze kafi pol nadarid.'
+
+# Translated BY Dead_Light

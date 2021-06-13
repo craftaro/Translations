@@ -1,0 +1,31 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: Oneindig
+# Interface Messages
+interface:
+  button:
+    addtimewithxp: '&aAVoeg 30 minuten toe met XP'
+    addtimewithxplore: '&7Kost: &a%cost% Levels'
+    addtimewitheconomy: '&aVoeg 30 minuten toe met ECO'
+    addtimewitheconomylore: '&7Kost: &a$%cost%'
+    infinite: '&cJe kunt geen oneindige ChunkAnchor upgraden!'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+# Command Messages
+command:
+  give:
+    success: '&7Je hebt een ChunkAnchor ontvangen.'
+  show:
+    start: '&7Anchor visualisatie modus &2ingeschakeld.'
+    stop: '&7Anchor visualisatie modus &cuitgeschakeld.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cJe hebt geen toestemming om dat te doen.'
+  upgrade:
+    cannotafford: '&cJe kunt dat niet betalen'

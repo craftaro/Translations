@@ -1,0 +1,37 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: 'Infinite'
+
+# Interface Messages
+
+interface:
+  button:
+    addtimewithxp: '&aDodano 30 min za XP'
+    addtimewithxplore: '&7Koszt: &a%cost% poziomów'
+    addtimewitheconomy: '&aDodano 30 min za Balans'
+    addtimewitheconomylore: '&7Koszt: &a$%cost%'
+    infinite: '&cNie możesz ulepszyć nieskończonej kotwicy!'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+
+# Command Messages
+
+command:
+  give:
+    success: '&7Otrzymałeś ChunkAnchor.'
+  show:
+    start: '&7Wizualizacja kotwicy &awłączona.'
+    stop: '&7Wizualizacja kotwicy &cwyłączona.'
+
+# Event Messages
+
+event:
+  general:
+    nopermission: '&cNie masz do tego dostępu.'
+  upgrade:
+    cannotafford: '&cNie możesz tego zrobić.'

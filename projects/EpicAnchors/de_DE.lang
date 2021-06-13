@@ -1,0 +1,30 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+    next: '&9Nächste'
+    back: '&9Zurück'
+# Interface Messages
+interface:
+  button:
+    addtimewithxp: '&aFüge 30 Minuten mit XP hinzu'
+    addtimewithxplore: '&7Kosten: &a%cost% Level'
+    addtimewitheconomy: '&aFüge 30 Minuten mit Geld hinzu'
+    addtimewitheconomylore: '&7Kosten: &a$%cost%'
+  anchor:
+    title: ChunkAnker
+    smalltitle: '&cChunkAnker'
+# Command Messages
+command:
+  give:
+    success: '&7Dir wurde ein ChunkAnker gegeben.'
+  show:
+    start: '&7Ankervisualisierung &2aktiviert.'
+    stop: '&7Ankervisualisierung &cdeaktiviert.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cDu hast keine Rechte dies zu tun.'
+  upgrade:
+    cannotafford: '&cDu kannst dir das nicht leisten.'

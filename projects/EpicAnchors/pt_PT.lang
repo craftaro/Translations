@@ -1,0 +1,31 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: Infinito
+# Interface Messages
+interface:
+  button:
+    addtimewithxp: '&aAdicionar 30 Minutos COm Experiencia'
+    addtimewithxplore: '&7Custo: &a%cost% Níveis'
+    addtimewitheconomy: '&aAdicionar 30 Minutos usando dinheiro'
+    addtimewitheconomylore: '&7Custo: &a$%cost%'
+    infinite: '&cNão é possível evoluir uma âncora infinita!'
+  anchor:
+    title: Âncora de Chunks
+    smalltitle: '&eÂncora de Chunks'
+# Command Messages
+command:
+  give:
+    success: '&7Foi-lhe dado uma Âncora de Chunks.'
+  show:
+    start: '&7Visualizador de Âncora: &2Ativado&7.'
+    stop: '&7Visualizador de Âncora: &cDesativado&7.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cVocê não tem permissão para isto!'
+  upgrade:
+    cannotafford: '&cVocê não consegue comprar isto!'

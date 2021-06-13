@@ -1,0 +1,33 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+    next: '&9Suivant'
+    back: '&9Retour'
+interface:
+  button:
+
+    # Interface Messages
+    addtimewithxp: '&aAjouter 30 Mins avec de l''experience'
+    addtimewithxplore: '&7Coût: &a%cost% Niveaux'
+    addtimewitheconomy: '&aAjouter 30 Mins avec l''argent'
+    addtimewitheconomylore: '&7Coût: &a$%cost%'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+command:
+  give:
+
+    # Command Messages
+    success: '&7Vous avez reçu une ChunkAnchor.'
+  show:
+    start: '&7Visualiseur d''Anchor &2activé.'
+    stop: '&7Visualiseur d''Anchor &cdésactivé.'
+event:
+  general:
+
+    # Event Messages
+    nopermission: '&cVous n''avez pas les permissions requises.'
+  upgrade:
+    cannotafford: '&cVous n''avez pas assez d''argent.'

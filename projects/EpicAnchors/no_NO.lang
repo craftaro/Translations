@@ -1,0 +1,36 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+    next: '&9Neste'
+    back: '&9Tilbake'
+
+# Interface Messages
+
+interface:
+  button:
+    addtimewithxp: '&aLegg til 30 Minutter med XP'
+    addtimewithxplore: '&7Koster: &a%cost% Levler'
+    addtimewitheconomy: '&aLegg til 30 Minutter med ECO'
+    addtimewitheconomylore: '&7Koster: &a$%cost%'
+  anchor:
+    title: ChunkAnker
+    smalltitle: '&eChunkAnker'
+
+# Command Messages
+
+command:
+  give:
+    success: '&7Du har blitt gitt et ChunkAnker.'
+  show:
+    start: '&7Anker visualiserer &2enabled.'
+    stop: '&7Anker visualiserer &cdisabled.'
+
+# Event Messages
+
+event:
+  general:
+    nopermission: '&cDu har ikke tillatelse til å gjøre dette.'
+  upgrade:
+    cannotafford: '&cDu har ikke råd til dette.'

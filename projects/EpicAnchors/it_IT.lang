@@ -1,0 +1,37 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: 'Infinito'
+
+# Interface Messages
+
+interface:
+  button:
+    addtimewithxp: '&aAggiungi 30 minuti con XP'
+    addtimewithxplore: '&7Costo: &a%cost% Livelli'
+    addtimewitheconomy: '&aAggiungi 30 minuti con ECO'
+    addtimewitheconomylore: '&7Costo: &a$%cost%'
+    infinite: '&cNon puoi migliorare un anchor infinito!'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+
+# Command Messages
+
+command:
+  give:
+    success: '&7Hai appena ricevuto un ChunkAnchor.'
+  show:
+    start: '&7Visualizzatore anchor &2attivato.'
+    stop: '&7Visualizzatore anchor &cdisattivato.'
+
+# Event Messages
+
+event:
+  general:
+    nopermission: '&cNon hai il permesso per farlo.'
+  upgrade:
+    cannotafford: '&cNon te lo puoi permettere.'

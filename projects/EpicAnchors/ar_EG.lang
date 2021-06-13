@@ -1,0 +1,31 @@
+# General Messages (Rasa2l 3ama)
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: la-Neha2e
+# Interface Messages (Rasa2l el Wagha)
+interface:
+  button:
+    addtimewithxp: '&azawed 30 de2e2a bel XP'
+    addtimewithxplore: '&7M7tag Mostawa &a%cost%'
+    addtimewitheconomy: '&aazawed 30 de2e2a bel felos'
+    addtimewitheconomylore: '&7M7tag: &a$%cost%'
+    infinite: '&cCannot upgrade an infinite anchor!'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+# Command Messages (Rasa2l el awamer)
+command:
+  give:
+    success: '&7tm a3ta2k &aChunkAnchor&7 be naga7.'
+  show:
+    start: '&7t5ayol el Anchor &2Mafto7.'
+    stop: '&7t5ayol el Anchor &cMa2fol.'
+# Event Messages (Rasa2l el a7das)
+event:
+  general:
+    nopermission: '&canta la tmtlek sala7ya letf3al zalek'
+  upgrade:
+    cannotafford: '&cla tmtlek El 3dad el kafe'

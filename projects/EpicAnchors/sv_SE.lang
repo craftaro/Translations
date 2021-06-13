@@ -1,0 +1,31 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+  word:
+    infinite: Oändlig
+# Interface Messages
+interface:
+  button:
+    addtimewithxp: '&aLägg till 30 minuter med XP'
+    addtimewithxplore: '&7Kostnad: &a%cost%'
+    addtimewitheconomy: '&aLägg till 30 Minutes med ECO'
+    addtimewitheconomylore: '&7Kostnad: &a$%cost%'
+    infinite: '&cKan inte upgradera en oändlig anchor!'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+# Command Messages
+command:
+  give:
+    success: '&7Du har blivit given en ChunkAnchor.'
+  show:
+    start: '&7Anchor visualiserare &2på.'
+    stop: '&7Anchor visualiserare &cav.'
+# Event Messages
+event:
+  general:
+    nopermission: '&cDu har inte tillstånd till att göra det där.'
+  upgrade:
+    cannotafford: '&cDu har inte råd med detta'

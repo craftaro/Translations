@@ -1,0 +1,25 @@
+#General Messages
+
+general.nametag.prefix = "&8[&6EpicAnchors&8]"
+general.nametag.next = "&9Siguiente"
+general.nametag.back = "&9Atrás"
+
+#Interface Messages
+
+interface.button.addtimewithxp = "&aAgrega 30 Minutos con EXP"
+interface.button.addtimewithxplore = "&7Costo: &a%cost% Niveles"
+interface.button.addtimewitheconomy = "&aAgrega 30 Minutos con ECO"
+interface.button.addtimewitheconomylore = "&7Cost: &a$%cost%"
+interface.anchor.title = "Ancla de Chunk"
+interface.anchor.smalltitle = "&eAncla de Chunk"
+
+#Command Messages
+
+command.give.success = "&7Has recibido un Ancla de Chunk."
+command.show.start = "&7Visualizador de ancla &2activado."
+command.show.stop = "&7Visualizador de ancla &cdesactivado."
+
+#Event Messages
+
+event.general.nopermission = "&cNo tienes permiso para hacer eso."
+event.upgrade.cannotafford = "&cNo puedes permitirte eso."

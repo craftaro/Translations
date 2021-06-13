@@ -1,0 +1,33 @@
+# General Messages
+
+general:
+  nametag:
+    prefix: '&8[&6EpicAnchors&8]'
+    next: '&9Ileri'
+    back: '&9Geri'
+interface:
+  button:
+
+    # Interface Messages
+    addtimewithxp: '&aXP ile 30 dakika ekle'
+    addtimewithxplore: '&7Fiyatı: &a%cost% Seviye'
+    addtimewitheconomy: '&aPara ile 30 dakika ekle'
+    addtimewitheconomylore: '&7Fiyatı: &a$%cost%'
+  anchor:
+    title: ChunkAnchor
+    smalltitle: '&eChunkAnchor'
+command:
+  give:
+
+    # Command Messages
+    success: '&7Sana bir ChunkAnchor verildi.'
+  show:
+    start: '&7Anchor Chunk gösterimi &2açıldı.'
+    stop: '&7Anchor Chunk gösterimi &ckapandı.'
+event:
+  general:
+
+    # Event Messages
+    nopermission: '&cBunu yapmak için yeterli yetkin yok.'
+  upgrade:
+    cannotafford: '&cParan yetersiz'
