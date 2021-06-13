@@ -1,0 +1,15 @@
+en_US.lang
+de_DE.lang
+ar_EG.lang
+es_ES.lang
+fa_IR.lang
+fr_FR.lang
+it_IT.lang
+nl_NL.lang
+no_NO.lang
+pl_PL.lang
+pt_BR.lang
+pt_PT.lang
+ru_RU.lang
+sv_SE.lang
+tr_TR.lang
