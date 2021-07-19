@@ -1,3 +1,8 @@
+####
+# This is an example index file for EpicAnchors
+# These lines should be ignored
+####
+
 en_US.lang
 de_DE.lang
 ar_EG.lang
